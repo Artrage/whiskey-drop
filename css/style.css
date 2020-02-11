@@ -14,7 +14,7 @@ body {
     -o-background-size: cover;
     background-size: cover;
 
-    display: flex;
+    /*(display: flex;*/
     align-items: center;
     justify-content: center;
 
